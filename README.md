@@ -8,3 +8,5 @@ Using ngspice to generate certain amount of data for our two-stage Op-Amp. The t
 Using tensorflow to build our DNN and RNN(LSTM).
 ## Model Evaluation
 Using these models to generate some test data and feed them into the simulator(ngspice). Then compare the given preformance with the simulated results.
+## PS: 
+for more information, just check our paper(Zhenyu Wang, Xiangzhong Luo, Zheng Gong. Application of Deep Learning in Analog Circuit Sizing. In 2018 2nd International Conference on Computer Science and Artificial Intelligence)(https://dl.acm.org/citation.cfm?id=3297156)
