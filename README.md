@@ -9,4 +9,5 @@ Using tensorflow to build our DNN and RNN(LSTM).
 ## Model Evaluation
 Using these models to generate some test data and feed them into the simulator(ngspice). Then compare the given preformance with the simulated results.
 ## PS: 
-For more information, just check our paper - Zhenyu Wang, Xiangzhong Luo, Zheng Gong. Application of Deep Learning in Analog Circuit Sizing. In 2018 2nd *International Conference on Computer Science and Artificial Intelligence* </br>https://dl.acm.org/citation.cfm?id=3297156
+For more information, just check our paper - <br>
+Zhenyu Wang, Xiangzhong Luo, Zheng Gong. 2018. Application of Deep Learning in Analog Circuit Sizing. In Proceedings of the 2018 2nd International Conference on Computer Science and Artificial Intelligence (CSAI '18). ACM, New York, NY, USA, 571-575. DOI: https://doi.org/10.1145/3297156.3297160
